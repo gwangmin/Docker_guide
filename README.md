@@ -1,7 +1,8 @@
 # Docker guide
 
 ## Index
-1. [설치방법](https://github.com/gwangmin/Docker_guide/blob/master/%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95.md)
+1. [도커란?](https://github.com/gwangmin/Docker_guide#%EB%8F%84%EC%BB%A4%EB%9E%80)
+2. [설치방법](https://github.com/gwangmin/Docker_guide/blob/master/%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95.md)
 
 ## 도커란?
 (정확하진 않지만 간단히 설명하자면)
