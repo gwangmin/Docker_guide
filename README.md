@@ -4,4 +4,7 @@
 ## Index
 1. [도커란?](https://github.com/gwangmin/Docker_guide/blob/master/%EB%8F%84%EC%BB%A4.md)
 2. [설치방법](https://github.com/gwangmin/Docker_guide/blob/master/%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95.md)
-3. [참고](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
+
+----------------------------------
+[참고1](http://pyrasis.com/Docker/Docker-HOWTO)(기본적인 사용방법)  
+[참고2](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)(자세히 알고 싶다면)  
